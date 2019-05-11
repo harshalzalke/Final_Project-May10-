@@ -1,9 +1,9 @@
 **Research Question**
+
 The objective of the research is to study how economic freedom and political freedom affect the happiness of a country.
 Economic Freedom and Political freedom are our independent variables and happiness score is our dependent variable.
 
 **Data Source**
-
 
 a) The Happiness data: The data is titled **online-data-chapter-2-whr-[YEAR]**. The data is retrieved from the World Happiness Report (source: https://worldhappiness.report/ed The world happiness report is a survey of global happiness. It ranks 156 countries on the basis of their happiness. The methpdology involves survey questions that ask people to rate their satisfaction across measures such as satisfaction with their national governments, personal relationships and security.    The data format is csv.
 
